@@ -1,4 +1,4 @@
 # LaunchX
 
 Practicas 
- - 01 Introduccion: Abogabot
+ - Practica 1: Abogabot
