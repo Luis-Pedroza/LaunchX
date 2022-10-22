@@ -1,4 +1,4 @@
-# LaunchX
+# LaunchX: Practicas Frontend
 
 Practicas 
  - Practica 1: Introduccion
