@@ -2,6 +2,6 @@
 
 - Lista de productos
 - Formulario de pedidos
-- Formaulario de registro
+- Formulario de registro
 - Tabla de ubicaciones
 - Informacion adicional de la tienda
