@@ -7,3 +7,4 @@
    - [ ] Creacion de UX
    - [ ] Creacion de UI
  - **Practica 2: HTML**
+   - [x] Tienda Online ([solo codigo](https://github.com/Luis-Pedroza/LaunchX/blob/main/Practica%202:%20HTML/index.html))
