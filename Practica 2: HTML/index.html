@@ -1,0 +1,222 @@
+<!-- Tienda online Push & Bear-->
+<!-- By Pedroza Moranchel Luis Fernando-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Push & Bear</title>
+</head>
+
+<body>
+    <style>
+    </style>
+    <header>
+        <h1>Push & Bear</h1>
+        <img height="200px" class="fotoProducto" id="logo" src="/PUSH&BEAR.png" alt="logo">
+    </header>
+    <!-- ******** MENU ********* -->
+    <section class="seccion" id="productos">
+        <h2>Productos</h2>
+        <div class="ContenedorProductos" id="playeras">
+            <h3>Playeras</h3>
+            <ul class="listaProducto">
+                <li>
+                    <div class="contenedorImagen">
+                        <img src="" alt="playera_1">
+                        <div>Estilo 1</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="contenedorImagen">
+                        <img src="" alt="playera_2">
+                        <div>Estilo 2</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="contenedorImagen">
+                        <img src="" alt="playera_3">
+                        <div>Estilo 3</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="ContenedorProductos" id="sudaderas">
+            <h3>Sudaderas</h3>
+            <ul class="listaProducto">
+                <li>
+                    <div class="contenedorImagen">
+                        <img src="" alt="sudadera_1">
+                        <div>Estilo 1</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="contenedorImagen">
+                        <img src="" alt="sudadera_2">
+                        <div>Estilo 2</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="contenedorImagen">
+                        <img src="" alt="sudadera_3">
+                        <div>Estilo 3</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="ContenedorProductos" id="gorras">
+            <h3>Gorras</h3>
+            <ul class="listaProducto">
+                <li>
+                    <div class="contenedorImagen">
+                        <img src="" alt="gorra_1">
+                        <div>Estilo 1</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="contenedorImagen">
+                        <img src="" alt="gorra_2">
+                        <div>Estilo 2</div>
+                    </div>
+                </li>
+                <li>
+                    <div class="contenedorImagen">
+                        <img src="" alt="gorra_3">
+                        <div>Estilo 3</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <!-- ******** PEDIDOS ******** -->
+    <section class="seccion" id="pedidos">
+        <h2>Pedidos</h2>
+        <form id="pedidos" action="">
+            <ul>
+                <li>
+                    <label for="selectProducto">Producto</label>
+                    <select name="selectProducto" id="selectProducto">
+                        <option value="playera">Playeras</option>
+                        <option value="sudadera">Sudaderas</option>
+                        <option value="gorra">Gorras</option>
+                    </select>
+
+                </li>
+                <li>
+                    <label for="">Estilo</label>
+                    <select name="" id="">
+                        <option value="Producto 1">Estilo 1</option>
+                        <option value="Producto 2">Estilo 2</option>
+                        <option value="Producto 3">Estilo 3</option>
+                    </select>
+                </li>
+                <li>
+                    <label for="">Talla</label>
+                    <select name="" id="">
+                        <option value="chico">Chico</option>
+                        <option value="mediano">Mediano</option>
+                        <option value="grande">Grande</option>
+                        <option value="extraGrande">Extra grande</option>
+                    </select>
+                </li>
+                <li>
+                    <label for="selectCantidad">Cantidad</label>
+                    <input type="number" placeholder="1">
+                </li>
+            </ul>
+            <button class="boton" id="botonGuardarPedid" type="submit" name="botonGuardarPedido">Guardar pedido</button>
+            <button class="boton" id="botonResetPedido" type="reset" name="botonResetPedido">Limpiar seleccon</button>
+        </form>
+    </section>
+    <!-- ********* REGISTRO ********* -->
+    <section class="seccion">
+        <h2>Registro</h2>
+        <form action="">
+            <ul>
+                <li>
+                    <label for="nombre">Nombre</label>
+                    <input type="name" name="nombre" placeholder="Juan perez">
+                </li>
+                <li>
+                    <label for="correo">Correo</label>
+                    <input type="email" name="corre" placeholder="ejemplo@pull&bear.com">
+                </li>
+                <li>
+                    <label for="cireccion">Direccion</label>
+                    <input type="text" name="direccion" placeholder="calle, numero, delegacion">
+                </li>
+                <li>
+                    <label for="contraseña">Contraseña</label>
+                    <input type="password" name="contraseña">
+                </li>
+                <li>
+                    <input type="checkbox" name="check">
+                    <label for="checkbox">Usar siempre esta informacion</label>
+                </li>
+            </ul>
+            <button class="boton" id="botonGuardarDatos" type="submit" name="botonGuardarDatos">Guardar datos</button>
+            <button class="boton" id="botonResetDatos" type="reset" name="botonResetDatos">Limpiar</button>
+        </form>
+    </section>
+    <!-- ******** TIENDAS ********* -->
+    <section class="seccion" id="ubicacion">
+        <h2>Tiendas</h2>
+        <table border="1px">
+            <tr>
+                <th>Norte</th>
+                <th>Centro</th>
+                <th>Sur</th>
+            </tr>
+            <tr>
+                <td>Linda vista</td>
+                <td>Cuauhtemoc</td>
+                <td>Coapa</td>
+            </tr>
+            <tr>
+                <td><a href="https://goo.gl/maps/ULzH4N35wwsvf5H47">Juan Nepomuceno 254, Buenavista, Cuauhtémoc</a></td>
+                <td><a href="https://goo.gl/maps/uu3EtHJGLhMj88uUA">C. Morelia 3, Roma Nte.</a></td>
+                <td><a href="https://goo.gl/maps/boQb4SP4Gs6nuGMY8">Los Robles 10, Coapa, Los Robles</a></td>
+            </tr>
+            <tr>
+                <td>L - D 8am -8pm</td>
+                <td>L - D 8am -8pm</td>
+                <td>L - D 8am -8pm</td>
+            </tr>
+        </table>
+    </section>
+    <!-- ******** FOOTER ********* -->
+    <footer>
+        <h2>Conoce más</h2>
+        <table>
+            <tr>
+                <th>Redes</th>
+                <th>Conócenos</th>
+                <th>Ayuda</th>
+            </tr>
+            <tr>
+                <td>
+                    <li><a href="">Facebook</a></li>
+                    <li><a href="">Instagram</a></li>
+                    <li><a href="">Twitter</a></li>
+                </td>
+                <td>
+                    <li><a href="">Quienes somos</a> </li>
+                    <li><a href="">Mision</a></li>
+                    <li><a href="">Vision</a></li>
+                    <li><a href="">Valores</a></li>
+                </td>
+                <td>
+                    <li><a href="">Metodos de pago</a></li>
+                    <li><a href="">Devoluciones</a></li>
+                    <li><a href="">Contactanos</a></li>
+                </td>
+            </tr>
+        </table>
+        <div>Condiciones de uso|Aviso de privacidad <br> Copyright 2022 &copy Push&Bear. Todos los derechos reservados
+        </div>
+    </footer>
+</body>
+
+</html>
