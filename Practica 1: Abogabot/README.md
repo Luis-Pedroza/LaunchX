@@ -2,5 +2,5 @@
 - [x]  Toma de requerimeintos
 - [x]  Buyer Persona
 - [x]  Publico Objetivo
-- [ ]  Creacion de UX
-- [ ]  Creacion de UI
+- [x]  Creacion de UX
+- [x]  Creacion de UI
