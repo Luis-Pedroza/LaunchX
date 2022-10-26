@@ -8,5 +8,5 @@
    - [x] [Creacion de UI](https://raw.githubusercontent.com/Luis-Pedroza/LaunchX/main/Practica%201%3A%20Abogabot/Abogabot%20UI.png)
  - **Practica 2: HTML**
    - [x] Tienda Online ([solo codigo](https://github.com/Luis-Pedroza/LaunchX/blob/main/Practica%202:%20HTML/index.html))
-   - [ ] Pasteleria (Desplegada)
+   - [x] Pasteleria ([Desplegada](https://luis-pedroza.github.io/TinasCake.github.io/index.html))
  - **Practica 3: CSS**
