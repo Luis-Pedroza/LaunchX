@@ -7,7 +7,6 @@
 - Informacion adicional de la tienda
 
 # Practica 2: HTML (Pasteleria)
-
 - Barra de navegacion
 - Lista de productos
 - Formulario de pedidos
@@ -18,3 +17,6 @@
 - Pagina de error
 - Estilizada con CSS
 - Desplegada
+
+link: https://luis-pedroza.github.io/TinasCake.github.io/index.html
+
