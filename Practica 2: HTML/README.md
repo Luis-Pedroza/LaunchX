@@ -18,5 +18,5 @@
 - Estilizada con CSS
 - Desplegada
 
-link: https://luis-pedroza.github.io/TinasCake.github.io/index.html
+link: https://luis-pedroza.github.io/TinasCake/
 
