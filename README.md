@@ -8,7 +8,10 @@
    - [x] [Creacion de UI](https://raw.githubusercontent.com/Luis-Pedroza/LaunchX/main/Practica%201%3A%20Abogabot/Abogabot%20UI.png)
  - **Practica 2: HTML**
    - [x] Tienda Online ([solo codigo](https://github.com/Luis-Pedroza/LaunchX/blob/main/Practica%202:%20HTML/index.html))
-   - [x] Pasteleria ([Desplegada](https://luis-pedroza.github.io/TinasCake/))
+   - [x] Pasteleria ([Desplegada](https://luis-pedroza.github.io/Web_Projects/pasteleria/index.html))
  - **Practica 3: CSS**
- 
+   - [ ] Pagina de vacunaciones (en proceso) [Desplegada](https://luis-pedroza.github.io/Web_Projects/vacunacion/index.html) 
  - **Practica 4: JS**
+   - [x] Pokedex [(Pagina desplegada)](https://luis-pedroza.github.io/Web_Projects/pokedex/index.html)
+   
+   # LaunchX: Practicas Backend
