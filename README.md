@@ -10,7 +10,7 @@
    - [x] Tienda Online ([solo codigo](https://github.com/Luis-Pedroza/LaunchX/blob/main/Practica%202:%20HTML/index.html))
    - [x] Pasteleria ([Desplegada](https://luis-pedroza.github.io/Web_Projects/pasteleria/index.html))
  - **Practica 3: CSS**
-   - [ ] Pagina de vacunaciones (en proceso) [Desplegada](https://luis-pedroza.github.io/Web_Projects/vacunacion/index.html) 
+   - [x] Pagina de vacunaciones [Desplegada](https://luis-pedroza.github.io/Web_Projects/vacunacion/index.html) 
  - **Practica 4: JS**
    - [x] Pokedex [(Pagina desplegada)](https://luis-pedroza.github.io/Web_Projects/pokedex/index.html)
    
